@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "axios": "^0.16.2",
-    "nuxt": "^1.0.0-rc11",
+    "nuxt": "^3.12.4",
     "prismjs": "^1.8.1",
     "vue-async-computed": "^3.3.1"
   },
