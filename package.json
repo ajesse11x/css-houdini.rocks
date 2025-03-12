@@ -14,9 +14,9 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^1.8.2",
     "nuxt": "^1.0.0-rc11",
-    "prismjs": "^1.8.1",
+    "prismjs": "^1.30.0",
     "vue-async-computed": "^3.3.1"
   },
   "devDependencies": {
